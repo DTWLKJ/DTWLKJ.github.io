@@ -2,6 +2,6 @@
 <html>
 <body>
 <h1>Hello World</h1>
-<p>东涛网络科技</p>
+<p>东涛网络</p>
 </body>
 <html>
